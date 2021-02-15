@@ -8,8 +8,27 @@
     "start": "next start"
   },
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
     "next": "10.0.6",
     "react": "17.0.1",
     "react-dom": "17.0.1"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunarmzaa/Lab4-DCW.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunarmzaa/Lab4-DCW/issues"
+  },
+  "homepage": "https://github.com/sunarmzaa/Lab4-DCW#readme"
 }
